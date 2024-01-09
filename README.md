@@ -1,4 +1,4 @@
-# Main### Hi there 👋
+Hi there 👋
 
 <h3 align="center">I am Honoreen, a passionate software developer </h3>
 
